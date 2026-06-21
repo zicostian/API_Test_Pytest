@@ -1,3 +1,5 @@
+[![Playwright Tests CI](https://github.com/zicostian/API_Test_Pytest/actions/workflows/playwright.yml/badge.svg)](https://github.com/zicostian/API_Test_Pytest/actions/workflows/playwright.yml)
+
 # API Test Pytest
 
 This repository contains API test examples using Python, the `pytest` framework, and Playwright's `APIRequestContext` for HTTP requests.
