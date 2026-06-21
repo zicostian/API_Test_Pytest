@@ -47,3 +47,6 @@ htmlcov/
 # Misc
 Pipfile.lock
 .mypy_cache/
+
+
+assets/* linguist-vendored

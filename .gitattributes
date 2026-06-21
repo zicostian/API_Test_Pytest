@@ -1,0 +1,35 @@
+# Auto-normalize line endings for text files
+* text=auto
+
+# Explicit text file declarations
+*.py text
+*.md text
+*.yaml text
+*.yml text
+*.ini text
+*.cfg text
+*.toml text
+*.json text
+*.xml text
+*.html text
+*.css text
+*.js text
+*.csv text
+
+# Treat common binary files as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.pdf binary
+
+assets/* linguist-vendored
